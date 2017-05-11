@@ -1,4 +1,4 @@
-package com.aleaquino.ipoo.datos.acceso;
+package com.aleaquino.ipoo.datos.cliente;
 
 import java.util.Date;
 

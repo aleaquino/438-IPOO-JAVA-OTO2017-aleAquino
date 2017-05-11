@@ -10,10 +10,10 @@ public class Cliente {
 	private String telefono;
 	private String password;
 	
-	public Cliente() {
-		/* constructor */
+	public Cliente(){
+		
 	}
-
+	
 	public Cliente(long id, String tipoDoc, String nroDoc, String nombre, String direccion, String telefono,
 			String password) {
 		super();
